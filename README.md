@@ -10,4 +10,3 @@ Key highlights:
 
 PBIX File Link:https://drive.google.com/file/d/1mb6YQjcmvXrxPoCw6w7qfbY1ELfUe3-7/view?usp=drive_link
 PDF Link:https://drive.google.com/file/d/1X-aye8z3gZJBOLeBC8sUbNUtFIqEeg9W/view?usp=drive_link
-Canava Link:https://www.canva.com/design/DAF4J9ip9VA/rk5O4JbqBOp1sXpuZ4YP4A/edit
