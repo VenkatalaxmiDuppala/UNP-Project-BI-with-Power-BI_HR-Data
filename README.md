@@ -10,6 +10,6 @@ Key highlights:
 
 3.Ardently involved in creating data model, implemented data transformation and calculation using DAX for accurate analysis and report.
 
-PBIX File Link:https://drive.google.com/file/d/1mb6YQjcmvXrxPoCw6w7qfbY1ELfUe3-7/view?usp=drive_link
-DASHBOARD PDF Link:https://drive.google.com/file/d/1VX44cCx65XSnXEFTrUnvo7N720pLu6an/view?usp=drive_link
-CANVA PDF Link:https://drive.google.com/file/d/1X-aye8z3gZJBOLeBC8sUbNUtFIqEeg9W/view?usp=drive_link
+PBIX File Link:https://drive.google.com/file/d/1mb6YQjcmvXrxPoCw6w7qfbY1ELfUe3-7/view?usp=sharing
+DASHBOARD PDF Link:https://drive.google.com/file/d/1VX44cCx65XSnXEFTrUnvo7N720pLu6an/view?usp=sharing
+CANVA PDF Link:https://drive.google.com/file/d/1X-aye8z3gZJBOLeBC8sUbNUtFIqEeg9W/view?usp=sharing
